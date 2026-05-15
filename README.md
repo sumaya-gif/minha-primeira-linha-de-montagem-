@@ -1,1 +1,3 @@
 [![Minha Primeira Linha de Montagem](https://github.com/sumaya-gif/minha-primeira-linha-de-montagem-/actions/workflows/linha-de-montagem.yml/badge.svg)](https://github.com/sumaya-gif/minha-primeira-linha-de-montagem-/actions/workflows/linha-de-montagem.yml)
+
+[![Minha Primeira Linha de Montagem](https://github.com/sumaya-gif/minha-primeira-linha-de-montagem-/actions/workflows/linha-de-montagem.yml/badge.svg)](https://github.com/sumaya-gif/minha-primeira-linha-de-montagem-/actions/workflows/linha-de-montagem.yml)
